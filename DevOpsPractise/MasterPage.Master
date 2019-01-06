@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="DevOpsPractise.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>DevOps page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:Table ID="Table1" runat="server">
+                <asp:TableRow>
+                    <asp:TableCell>
+                        Prva ćelija
+                    </asp:TableCell>
+                    <asp:TableCell>
+                        Druga ćelija
+                    </asp:TableCell>
+                    <asp:TableCell>
+                        Treća ćelija
+                    </asp:TableCell>
+                </asp:TableRow>
+            </asp:Table>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

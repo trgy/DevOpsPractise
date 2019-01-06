@@ -1,0 +1,5 @@
+C:\Users\Trgy\Documents\Visual Studio 2012\Projects\DevOpsPractise\DevOpsPractise\bin\DevOpsPractise.dll
+C:\Users\Trgy\Documents\Visual Studio 2012\Projects\DevOpsPractise\DevOpsPractise\bin\DevOpsPractise.pdb
+C:\Users\Trgy\Documents\Visual Studio 2012\Projects\DevOpsPractise\DevOpsPractise\obj\Debug\DevOpsPractise.csprojResolveAssemblyReference.cache
+C:\Users\Trgy\Documents\Visual Studio 2012\Projects\DevOpsPractise\DevOpsPractise\obj\Debug\DevOpsPractise.dll
+C:\Users\Trgy\Documents\Visual Studio 2012\Projects\DevOpsPractise\DevOpsPractise\obj\Debug\DevOpsPractise.pdb
